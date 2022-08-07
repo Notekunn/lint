@@ -1,6 +1,7 @@
 {
   "name": "@notekunn/lint",
   "private": true,
+  "license": "UNLICENSED",
   "workspaces": [
     "packages/*"
   ],
