@@ -9,6 +9,10 @@
     "index.js",
     "README.md"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Notekunn/lint.git"
+  },
   "scripts": {
     "lint": "eslint . --ext .js"
   },
