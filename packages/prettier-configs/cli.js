@@ -4,7 +4,7 @@
 
 'use strict';
 
-const { exec } = require('child_process');
+const {exec} = require('child_process');
 
 const args = process.argv.slice(2);
 const extensions = 'js,jsx,mjs,ts,tsx,json,md,yml,yaml';
