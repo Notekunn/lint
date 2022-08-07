@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/Notekunn/lint/compare/@notekunn/prettier-configs@1.2.0...@notekunn/prettier-configs@1.3.0) (2022-08-07)
+
+
+### Features
+
+* **prettier:** add bracketSameLine ([c2c4383](https://github.com/Notekunn/lint/commit/c2c4383f0897be19b2fb0ecaefdecafd4f15a649))
+
+
+
+
+
 # [1.2.0](https://github.com/Notekunn/lint/compare/@notekunn/prettier-configs@1.1.0...@notekunn/prettier-configs@1.2.0) (2022-08-07)
 
 
