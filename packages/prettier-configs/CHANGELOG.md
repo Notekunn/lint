@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.2](https://github.com/Notekunn/lint/compare/@notekunn/prettier-configs@1.5.1...@notekunn/prettier-configs@1.5.2) (2022-08-07)
+
+
+### Bug Fixes
+
+* cannot release prettier ([fb439a7](https://github.com/Notekunn/lint/commit/fb439a70646a8f4380d83f1cac95fa39de99efee))
+
+
+
+
+
 ## [1.5.1](https://github.com/Notekunn/lint/compare/@notekunn/prettier-configs@1.5.0...@notekunn/prettier-configs@1.5.1) (2022-08-07)
 
 

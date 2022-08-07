@@ -1,6 +1,6 @@
 {
   "name": "@notekunn/prettier-configs",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "license": "UNLICENSED",
   "bin": "prettier",
   "main": "index.js",
