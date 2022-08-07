@@ -2,12 +2,12 @@
 
 /* eslint-disable no-console */
 
-'use strict';
+"use strict";
 
-const { exec } = require('child_process');
+const { exec } = require("child_process");
 
 const args = process.argv.slice(2);
-const extensions = 'js,jsx,mjs,ts,tsx,json,md,yml,yaml';
+const extensions = "js,jsx,mjs,ts,tsx,json,md,yml,yaml";
 
 function logError(message) {
   console.log(`Error: ${message}`);
@@ -15,11 +15,11 @@ function logError(message) {
 }
 
 if (!args || !args.length) {
-  logError('Must be 1 argument');
+  logError("Must be 1 argument");
 }
 
 const command = args[0];
-if (!['write', 'check'].includes(command)) {
+if (!["write", "check"].includes(command)) {
   logError('The argument must be be "write" or "check"');
 }
 
