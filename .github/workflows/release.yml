@@ -19,6 +19,8 @@ jobs:
           node-version: '16'
           registry-url: https://npm.pkg.github.com/
           scope: '@notekunn'
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.PAT}}
       - name: Build
         run: yarn ci:install && yarn ci:build
         env:
