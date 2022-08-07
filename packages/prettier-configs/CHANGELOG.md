@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/Notekunn/lint/compare/@notekunn/prettier-configs@1.4.0...@notekunn/prettier-configs@1.5.0) (2022-08-07)
+
+
+### Features
+
+* update lerna ([56871ca](https://github.com/Notekunn/lint/commit/56871ca7579142f6d76c522ca6155ffaaa56894a))
+
+
+
+
+
 # [1.4.0](https://github.com/Notekunn/lint/compare/@notekunn/prettier-configs@1.3.0...@notekunn/prettier-configs@1.4.0) (2022-08-07)
 
 
