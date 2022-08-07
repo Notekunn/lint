@@ -1,0 +1,21 @@
+{
+  "name": "@notekunn/prettier-configs",
+  "version": "0.0.0",
+  "license": "UNLICENSED",
+  "bin": "./cli.js",
+  "main": "index.js",
+  "files": [
+    "cli.js",
+    "index.js",
+    "README.md"
+  ],
+  "scripts": {
+    "lint": "eslint . --ext .js"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "dependencies": {
+    "prettier": "^2.6.2"
+  }
+}
