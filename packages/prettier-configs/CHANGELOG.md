@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0](https://github.com/Notekunn/lint/compare/@notekunn/prettier-configs@0.1.0...@notekunn/prettier-configs@1.1.0) (2022-08-07)
+
+
+### Features
+
+* add license for prettier-configs ([95d78f8](https://github.com/Notekunn/lint/commit/95d78f89e24a8a1b1c84d8223f5247c43461c24f))
+
+
+
+
+
 # 0.1.0 (2022-08-07)
 
 
