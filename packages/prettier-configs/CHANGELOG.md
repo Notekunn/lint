@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/Notekunn/lint/compare/@notekunn/prettier-configs@1.1.0...@notekunn/prettier-configs@1.2.0) (2022-08-07)
+
+
+### Features
+
+* **prettier:** add cli ([b9426e4](https://github.com/Notekunn/lint/commit/b9426e4ddce371fd65b27234fa1237df7922f253))
+
+
+
+
+
 # [1.1.0](https://github.com/Notekunn/lint/compare/@notekunn/prettier-configs@0.1.0...@notekunn/prettier-configs@1.1.0) (2022-08-07)
 
 
