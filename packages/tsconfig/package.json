@@ -1,0 +1,17 @@
+{
+  "name": "@notekunn/tsconfig",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "main": "tsconfig.json",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Notekunn/lint.git"
+  },
+  "scripts": {
+    "lint": "eslint . --ext .js"
+  },
+  "dependencies": {}
+}
