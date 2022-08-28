@@ -2,7 +2,7 @@
   "name": "@notekunn/prettier-configs",
   "version": "1.5.2",
   "license": "UNLICENSED",
-  "bin": "prettier",
+  "bin": "yarn prettier",
   "main": "index.js",
   "files": [
     "cli.js",
@@ -19,7 +19,5 @@
   "publishConfig": {
     "access": "restricted"
   },
-  "dependencies": {
-    "prettier": "^2.6.2"
-  }
+  "dependencies": {}
 }

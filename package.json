@@ -6,8 +6,8 @@
     "packages/*"
   ],
   "scripts": {
-    "format:check": "prettier-config check",
-    "format:write": "prettier-config write",
+    "format:check": "prettier --check \"**/*.{js,jsx,mjs,ts,tsx,json,md,yml,yaml}\"",
+    "format:write": "prettier --check \"**/*.{js,jsx,mjs,ts,tsx,json,md,yml,yaml}\"",
     "lint": "lerna run lint",
     "test": "lerna run test",
     "ci:test": "yarn format:check && yarn lint && yarn test",
@@ -23,5 +23,6 @@
     "type": "git",
     "url": "git@github.com:Notekunn/lint.git"
   },
-  "author": "DC <cuong.nl5.kma@gmail.com>"
+  "author": "DC <cuong.nl5.kma@gmail.com>",
+  "prettier": "@notekunn/prettier-configs"
 }
