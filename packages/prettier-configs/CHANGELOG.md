@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/Notekunn/lint/compare/@notekunn/prettier-configs@1.5.2...@notekunn/prettier-configs@1.6.0) (2022-08-28)
+
+
+### Features
+
+* add tsconfig ([ebd550b](https://github.com/Notekunn/lint/commit/ebd550b72be32fddf189a400c7d6198bb566d12f))
+* remove dependencies of package.json ([63341ba](https://github.com/Notekunn/lint/commit/63341ba01054035062c61b4b4f70c26123ee55c1))
+
+
+
+
+
 ## [1.5.2](https://github.com/Notekunn/lint/compare/@notekunn/prettier-configs@1.5.1...@notekunn/prettier-configs@1.5.2) (2022-08-07)
 
 
