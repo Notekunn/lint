@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/Notekunn/lint/compare/@notekunn/eslint-config@1.1.0...@notekunn/eslint-config@1.2.0) (2022-09-08)
+
+
+### Features
+
+* add nest config eslint ([a7faad9](https://github.com/Notekunn/lint/commit/a7faad985f99ac253061373f4461e1fb985d619a))
+
+
+
+
+
 # 1.1.0 (2022-08-28)
 
 
