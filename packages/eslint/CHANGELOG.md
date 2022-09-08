@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.2](https://github.com/Notekunn/lint/compare/@notekunn/eslint-config@1.3.1...@notekunn/eslint-config@1.3.2) (2022-09-08)
+
+
+### Bug Fixes
+
+* update prettier dependencies ([b6b1755](https://github.com/Notekunn/lint/commit/b6b1755ec02c76380c851ffeddd37dca5dcd5068))
+
+
+
+
+
 ## [1.3.1](https://github.com/Notekunn/lint/compare/@notekunn/eslint-config@1.3.0...@notekunn/eslint-config@1.3.1) (2022-09-08)
 
 
